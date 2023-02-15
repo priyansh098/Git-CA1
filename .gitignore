@@ -1,4 +1,4 @@
 *.db
 *.log
-*target.txt
-*bin.txt
+/target
+/bin
